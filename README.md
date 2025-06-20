@@ -53,6 +53,7 @@ public struct Client
         Telephone = telephone;
     }
 }
+
 4.3. Fichier binaire
 Le fichier binaire utilisé, nommé clients.dat, contient toutes les fiches clients. Les opérations (lecture, écriture, modification) s'effectuent via des flux binaires (BinaryReader et BinaryWriter).
 
